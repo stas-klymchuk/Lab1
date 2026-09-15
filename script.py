@@ -24,3 +24,8 @@ print(name == "Stas")
 print(is_ok and True)
 print(False or True)
 print(not is_ok)
+
+int_num = 15
+float_num = 4.5
+str_val = "Stas"
+is_true = True
